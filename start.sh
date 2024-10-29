@@ -1,3 +1,3 @@
 pip install telebot
-chmod +x bgmi
+chmod +x *
 python loop.py
